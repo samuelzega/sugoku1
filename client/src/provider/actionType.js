@@ -1,0 +1,5 @@
+export const SETBOARD = 'SETBOARD'
+export const SETNAME = 'SETNAME'
+export const ADDSCORE = 'ADDSCORE'
+export const CURRENTUSER = 'CURRENTUSER'
+export const SETDIFFICULTY = 'SETDIFFICULTY'
